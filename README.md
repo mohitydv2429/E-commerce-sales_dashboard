@@ -11,18 +11,7 @@ Based on the data analyzed in the dashboard, the key business milestones achieve
 * **Total Quantity Sold:** 5,615 units
 * **Average Order Value (AOV):** 121K
 
----
-
-## Project Screenshots
-
-### 1. Main Sales & Performance Dashboard
-![E-Commerce Sales Dashboard - View 1](ecommerce%20pic.jpeg)
-
-### 2. Detailed Insights & Regional Breakdown
-*(Yahan aap apni doosri picture ka file name dal sakte hain)*
-![E-Commerce Sales Dashboard - View 2](ecommerce_pic2.PNG)
-
----
+--
 
 ## Core Business Insights & Data Analysis
 
